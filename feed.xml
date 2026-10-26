@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Inteligencia Artificial al día</title>
+<description>Noticias semanales del mundo de la inteligencia artificial con Marc y Clara, presentadas con humor, claridad y mucha energía. Guion y voces generados con inteligencia artificial.</description>
+<link>https://yamiltavip.github.io/inteligencia-artificial-al-dia-podcast/</link>
+<atom:link href="https://yamiltavip.github.io/inteligencia-artificial-al-dia-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+<language>es-ES</language>
+<copyright>Inteligencia Artificial al día</copyright>
+<itunes:author>Inteligencia Artificial al día</itunes:author>
+<itunes:summary>Las noticias más interesantes de IA cada semana, comentadas por Clara y Marc.</itunes:summary>
+<itunes:type>episodic</itunes:type>
+<itunes:explicit>false</itunes:explicit>
+<itunes:category text="Technology"/>
+<itunes:image href="https://yamiltavip.github.io/inteligencia-artificial-al-dia-podcast/portada.png"/>
+<image><url>https://yamiltavip.github.io/inteligencia-artificial-al-dia-podcast/portada.png</url><title>Inteligencia Artificial al día</title><link>https://yamiltavip.github.io/inteligencia-artificial-al-dia-podcast/</link></image>
+<lastBuildDate>Mon, 26 Oct 2026 21:27:47 GMT</lastBuildDate>
+<item>
+<title>Episodio 16: Inteligencia Artificial al día (2 de agosto de 2026)</title>
+<description>Episodio 16 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-08-02.</description>
+<guid isPermaLink="false">urn:inteligencia-artificial-al-dia:episodio:16</guid>
+<pubDate>Sun, 02 Aug 2026 05:00:00 GMT</pubDate>
+<enclosure url="https://yamiltavip.github.io/inteligencia-artificial-al-dia-podcast/episodios/episodio_16.mp3" length="3793868" type="audio/mpeg"/>
+<itunes:episode>16</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+
+</item>
+<item>
+<title>Episodio 15: Inteligencia Artificial al día (21 de julio de 2026)</title>
+<description>Episodio 15 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-07-21.</description>
+<guid isPermaLink="false">urn:inteligencia-artificial-al-dia:episodio:15</guid>
+<pubDate>Tue, 21 Jul 2026 05:00:00 GMT</pubDate>
+<enclosure url="https://yamiltavip.github.io/inteligencia-artificial-al-dia-podcast/episodios/episodio_15.mp3" length="3411692" type="audio/mpeg"/>
+<itunes:episode>15</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+
+</item>
+<item>
+<title>Episodio 14: Inteligencia Artificial al día (9 de julio de 2026)</title>
+<description>Episodio 14 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-07-09.</description>
+<guid isPermaLink="false">urn:inteligencia-artificial-al-dia:episodio:14</guid>
+<pubDate>Thu, 09 Jul 2026 05:00:00 GMT</pubDate>
+<enclosure url="https://yamiltavip.github.io/inteligencia-artificial-al-dia-podcast/episodios/episodio_14.mp3" length="4082732" type="audio/mpeg"/>
+<itunes:episode>14</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+
+</item>
+<item>
+<title>Episodio 13: Inteligencia Artificial al día (25 de junio de 2026)</title>
+<description>Episodio 13 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-06-25.</description>
+<guid isPermaLink="false">urn:inteligencia-artificial-al-dia:episodio:13</guid>
+<pubDate>Thu, 25 Jun 2026 05:00:00 GMT</pubDate>
+<enclosure url="https://yamiltavip.github.io/inteligencia-artificial-al-dia-podcast/episodios/episodio_13.mp3" length="4100012" type="audio/mpeg"/>
+<itunes:episode>13</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+
+</item>
+<item>
+<title>Episodio 12: Inteligencia Artificial al día (18 de junio de 2026)</title>
+<description>Episodio 12 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-06-18.</description>
+<guid isPermaLink="false">urn:inteligencia-artificial-al-dia:episodio:12</guid>
+<pubDate>Thu, 18 Jun 2026 05:00:00 GMT</pubDate>
+<enclosure url="https://yamiltavip.github.io/inteligencia-artificial-al-dia-podcast/episodios/episodio_12.mp3" length="3432716" type="audio/mpeg"/>
+<itunes:episode>12</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+
+</item>
+<item>
+<title>Episodio 11: Inteligencia Artificial al día (11 de junio de 2026)</title>
+<description>Episodio 11 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-06-11.</description>
+<guid isPermaLink="false">urn:inteligencia-artificial-al-dia:episodio:11</guid>
+<pubDate>Thu, 11 Jun 2026 05:00:00 GMT</pubDate>
+<enclosure url="https://yamiltavip.github.io/inteligencia-artificial-al-dia-podcast/episodios/episodio_11.mp3" length="3432716" type="audio/mpeg"/>
+<itunes:episode>11</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+
+</item>
+<item>
+<title>Episodio 10: Inteligencia Artificial al día (6 de junio de 2026)</title>
+<description>Episodio 10 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-06-06.</description>
+<guid isPermaLink="false">urn:inteligencia-artificial-al-dia:episodio:10</guid>
+<pubDate>Sat, 06 Jun 2026 05:00:00 GMT</pubDate>
+<enclosure url="https://yamiltavip.github.io/inteligencia-artificial-al-dia-podcast/episodios/episodio_10.mp3" length="4229324" type="audio/mpeg"/>
+<itunes:episode>10</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+
+</item>
+<item>
+<title>Episodio 9: Inteligencia Artificial al día (28 de mayo de 2026)</title>
+<description>Episodio 9 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-05-28.</description>
+<guid isPermaLink="false">urn:inteligencia-artificial-al-dia:episodio:9</guid>
+<pubDate>Thu, 28 May 2026 05:00:00 GMT</pubDate>
+<enclosure url="https://yamiltavip.github.io/inteligencia-artificial-al-dia-podcast/episodios/episodio_09.mp3" length="4095116" type="audio/mpeg"/>
+<itunes:episode>9</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+
+</item>
+<item>
+<title>Episodio 8: Musk pierde contra Altman y Alexa se convierte en podcaster</title>
+<description>Episodio 8 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-05-19.</description>
+<guid isPermaLink="false">urn:inteligencia-artificial-al-dia:episodio:8</guid>
+<pubDate>Tue, 19 May 2026 05:00:00 GMT</pubDate>
+<enclosure url="https://yamiltavip.github.io/inteligencia-artificial-al-dia-podcast/episodios/episodio_08.mp3" length="3547916" type="audio/mpeg"/>
+<itunes:episode>8</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+
+</item>
+<item>
+<title>Episodio 7: Las herramientas de IA que te harán trabajar 10 veces más rápido</title>
+<description>Episodio 7 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-04-30.</description>
+<guid isPermaLink="false">urn:inteligencia-artificial-al-dia:episodio:7</guid>
+<pubDate>Thu, 30 Apr 2026 05:00:00 GMT</pubDate>
+<enclosure url="https://yamiltavip.github.io/inteligencia-artificial-al-dia-podcast/episodios/episodio_07.mp3" length="20339372" type="audio/mpeg"/>
+<itunes:episode>7</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+
+</item>
+<item>
+<title>Episodio 6: La IA que nadie está usando y puede darte ventaja ahora</title>
+<description>Episodio 6 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-04-23.</description>
+<guid isPermaLink="false">urn:inteligencia-artificial-al-dia:episodio:6</guid>
+<pubDate>Thu, 23 Apr 2026 05:00:00 GMT</pubDate>
+<enclosure url="https://yamiltavip.github.io/inteligencia-artificial-al-dia-podcast/episodios/episodio_06.mp3" length="21327404" type="audio/mpeg"/>
+<itunes:episode>6</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+
+</item>
+<item>
+<title>Episodio 5: La IA que puede hacer dinero por ti y cómo empezar hoy</title>
+<description>Episodio 5 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-04-16.</description>
+<guid isPermaLink="false">urn:inteligencia-artificial-al-dia:episodio:5</guid>
+<pubDate>Thu, 16 Apr 2026 05:00:00 GMT</pubDate>
+<enclosure url="https://yamiltavip.github.io/inteligencia-artificial-al-dia-podcast/episodios/episodio_05.mp3" length="19521452" type="audio/mpeg"/>
+<itunes:episode>5</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+
+</item>
+<item>
+<title>Episodio 4: Estas IAs ya están sustituyendo trabajos y nadie te lo está contando</title>
+<description>Episodio 4 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-04-09.</description>
+<guid isPermaLink="false">urn:inteligencia-artificial-al-dia:episodio:4</guid>
+<pubDate>Thu, 09 Apr 2026 05:00:00 GMT</pubDate>
+<enclosure url="https://yamiltavip.github.io/inteligencia-artificial-al-dia-podcast/episodios/episodio_04.mp3" length="17921324" type="audio/mpeg"/>
+<itunes:episode>4</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+
+</item>
+<item>
+<title>Episodio 3: La IA que está cambiando el juego y cómo aprovecharla hoy</title>
+<description>Episodio 3 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-04-01.</description>
+<guid isPermaLink="false">urn:inteligencia-artificial-al-dia:episodio:3</guid>
+<pubDate>Wed, 01 Apr 2026 05:00:00 GMT</pubDate>
+<enclosure url="https://yamiltavip.github.io/inteligencia-artificial-al-dia-podcast/episodios/episodio_03.mp3" length="19740716" type="audio/mpeg"/>
+<itunes:episode>3</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+
+</item>
+<item>
+<title>Episodio 2: La actualidad de la inteligencia artificial: episodio 2</title>
+<description>Episodio 2 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-03-25.</description>
+<guid isPermaLink="false">urn:inteligencia-artificial-al-dia:episodio:2</guid>
+<pubDate>Wed, 25 Mar 2026 05:00:00 GMT</pubDate>
+<enclosure url="https://yamiltavip.github.io/inteligencia-artificial-al-dia-podcast/episodios/episodio_02.mp3" length="18993452" type="audio/mpeg"/>
+<itunes:episode>2</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+
+</item>
+<item>
+<title>Episodio 1: Lo más importante de la semana en inteligencia artificial</title>
+<description>Episodio 1 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-03-18.</description>
+<guid isPermaLink="false">urn:inteligencia-artificial-al-dia:episodio:1</guid>
+<pubDate>Wed, 18 Mar 2026 05:00:00 GMT</pubDate>
+<enclosure url="https://yamiltavip.github.io/inteligencia-artificial-al-dia-podcast/episodios/episodio_01.mp3" length="19321388" type="audio/mpeg"/>
+<itunes:episode>1</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+
+</item>
+</channel>
+</rss>

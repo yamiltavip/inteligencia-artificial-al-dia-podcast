@@ -1,0 +1,146 @@
+[
+  {
+    "numero": 1,
+    "titulo": "Episodio 1: Lo más importante de la semana en inteligencia artificial",
+    "descripcion": "Episodio 1 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-03-18.",
+    "fecha": "2026-03-18T07:00:00+02:00",
+    "file": "episodios/episodio_01.mp3",
+    "guid": "urn:inteligencia-artificial-al-dia:episodio:1",
+    "pendienteGuidOriginal": true
+  },
+  {
+    "numero": 2,
+    "titulo": "Episodio 2: La actualidad de la inteligencia artificial: episodio 2",
+    "descripcion": "Episodio 2 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-03-25.",
+    "fecha": "2026-03-25T07:00:00+02:00",
+    "file": "episodios/episodio_02.mp3",
+    "guid": "urn:inteligencia-artificial-al-dia:episodio:2",
+    "pendienteGuidOriginal": true
+  },
+  {
+    "numero": 3,
+    "titulo": "Episodio 3: La IA que está cambiando el juego y cómo aprovecharla hoy",
+    "descripcion": "Episodio 3 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-04-01.",
+    "fecha": "2026-04-01T07:00:00+02:00",
+    "file": "episodios/episodio_03.mp3",
+    "guid": "urn:inteligencia-artificial-al-dia:episodio:3",
+    "pendienteGuidOriginal": true
+  },
+  {
+    "numero": 4,
+    "titulo": "Episodio 4: Estas IAs ya están sustituyendo trabajos y nadie te lo está contando",
+    "descripcion": "Episodio 4 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-04-09.",
+    "fecha": "2026-04-09T07:00:00+02:00",
+    "file": "episodios/episodio_04.mp3",
+    "guid": "urn:inteligencia-artificial-al-dia:episodio:4",
+    "pendienteGuidOriginal": true
+  },
+  {
+    "numero": 5,
+    "titulo": "Episodio 5: La IA que puede hacer dinero por ti y cómo empezar hoy",
+    "descripcion": "Episodio 5 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-04-16.",
+    "fecha": "2026-04-16T07:00:00+02:00",
+    "file": "episodios/episodio_05.mp3",
+    "guid": "urn:inteligencia-artificial-al-dia:episodio:5",
+    "pendienteGuidOriginal": true
+  },
+  {
+    "numero": 6,
+    "titulo": "Episodio 6: La IA que nadie está usando y puede darte ventaja ahora",
+    "descripcion": "Episodio 6 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-04-23.",
+    "fecha": "2026-04-23T07:00:00+02:00",
+    "file": "episodios/episodio_06.mp3",
+    "guid": "urn:inteligencia-artificial-al-dia:episodio:6",
+    "pendienteGuidOriginal": true
+  },
+  {
+    "numero": 7,
+    "titulo": "Episodio 7: Las herramientas de IA que te harán trabajar 10 veces más rápido",
+    "descripcion": "Episodio 7 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-04-30.",
+    "fecha": "2026-04-30T07:00:00+02:00",
+    "file": "episodios/episodio_07.mp3",
+    "guid": "urn:inteligencia-artificial-al-dia:episodio:7",
+    "pendienteGuidOriginal": true
+  },
+  {
+    "numero": 8,
+    "titulo": "Episodio 8: Musk pierde contra Altman y Alexa se convierte en podcaster",
+    "descripcion": "Episodio 8 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-05-19.",
+    "fecha": "2026-05-19T07:00:00+02:00",
+    "file": "episodios/episodio_08.mp3",
+    "guid": "urn:inteligencia-artificial-al-dia:episodio:8",
+    "pendienteGuidOriginal": true
+  },
+  {
+    "numero": 9,
+    "titulo": "Episodio 9: Inteligencia Artificial al día (28 de mayo de 2026)",
+    "descripcion": "Episodio 9 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-05-28.",
+    "fecha": "2026-05-28T07:00:00+02:00",
+    "file": "episodios/episodio_09.mp3",
+    "guid": "urn:inteligencia-artificial-al-dia:episodio:9",
+    "pendienteGuidOriginal": true
+  },
+  {
+    "numero": 10,
+    "titulo": "Episodio 10: Inteligencia Artificial al día (6 de junio de 2026)",
+    "descripcion": "Episodio 10 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-06-06.",
+    "fecha": "2026-06-06T07:00:00+02:00",
+    "file": "episodios/episodio_10.mp3",
+    "guid": "urn:inteligencia-artificial-al-dia:episodio:10",
+    "pendienteGuidOriginal": true
+  },
+  {
+    "numero": 11,
+    "titulo": "Episodio 11: Inteligencia Artificial al día (11 de junio de 2026)",
+    "descripcion": "Episodio 11 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-06-11.",
+    "fecha": "2026-06-11T07:00:00+02:00",
+    "file": "episodios/episodio_11.mp3",
+    "guid": "urn:inteligencia-artificial-al-dia:episodio:11",
+    "pendienteGuidOriginal": true
+  },
+  {
+    "numero": 12,
+    "titulo": "Episodio 12: Inteligencia Artificial al día (18 de junio de 2026)",
+    "descripcion": "Episodio 12 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-06-18.",
+    "fecha": "2026-06-18T07:00:00+02:00",
+    "file": "episodios/episodio_12.mp3",
+    "guid": "urn:inteligencia-artificial-al-dia:episodio:12",
+    "pendienteGuidOriginal": true
+  },
+  {
+    "numero": 13,
+    "titulo": "Episodio 13: Inteligencia Artificial al día (25 de junio de 2026)",
+    "descripcion": "Episodio 13 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-06-25.",
+    "fecha": "2026-06-25T07:00:00+02:00",
+    "file": "episodios/episodio_13.mp3",
+    "guid": "urn:inteligencia-artificial-al-dia:episodio:13",
+    "pendienteGuidOriginal": true
+  },
+  {
+    "numero": 14,
+    "titulo": "Episodio 14: Inteligencia Artificial al día (9 de julio de 2026)",
+    "descripcion": "Episodio 14 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-07-09.",
+    "fecha": "2026-07-09T07:00:00+02:00",
+    "file": "episodios/episodio_14.mp3",
+    "guid": "urn:inteligencia-artificial-al-dia:episodio:14",
+    "pendienteGuidOriginal": true
+  },
+  {
+    "numero": 15,
+    "titulo": "Episodio 15: Inteligencia Artificial al día (21 de julio de 2026)",
+    "descripcion": "Episodio 15 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-07-21.",
+    "fecha": "2026-07-21T07:00:00+02:00",
+    "file": "episodios/episodio_15.mp3",
+    "guid": "urn:inteligencia-artificial-al-dia:episodio:15",
+    "pendienteGuidOriginal": true
+  },
+  {
+    "numero": 16,
+    "titulo": "Episodio 16: Inteligencia Artificial al día (2 de agosto de 2026)",
+    "descripcion": "Episodio 16 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-08-02.",
+    "fecha": "2026-08-02T07:00:00+02:00",
+    "file": "episodios/episodio_16.mp3",
+    "guid": "urn:inteligencia-artificial-al-dia:episodio:16",
+    "pendienteGuidOriginal": true
+  }
+]
