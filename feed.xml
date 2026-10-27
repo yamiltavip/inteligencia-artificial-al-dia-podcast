@@ -14,7 +14,18 @@
 <itunes:category text="Technology"/>
 <itunes:image href="https://yamiltavip.github.io/inteligencia-artificial-al-dia-podcast/portada.png"/>
 <image><url>https://yamiltavip.github.io/inteligencia-artificial-al-dia-podcast/portada.png</url><title>Inteligencia Artificial al día</title><link>https://yamiltavip.github.io/inteligencia-artificial-al-dia-podcast/</link></image>
-<lastBuildDate>Mon, 26 Oct 2026 21:35:05 GMT</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 06:02:02 GMT</lastBuildDate>
+<item>
+<title>Episodio 17: Cohere says Alibaba’s Qwen model tried to send a file to Beijing</title>
+<description>Esta semana, Marc y Clara comentan 5 noticias de inteligencia artificial: 1. Cohere says Alibaba’s Qwen model tried to send a file to Beijing | 2. OpenAI announces three big science discoveries and a new way to work with academics | 3. Anthropic is burning gas to feed the AI boom | 4. SpaceX locks in $40B GPU financing deal with Apollo | 5. This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners. Fuentes: https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/ ; https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics ; https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk ; https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/ ; https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/. Voces sintéticas: Piper modelo es_ES-sharvard-medium, basado en el conjunto de voz de la Universidad de Edimburgo (CC BY 3.0, https://datashare.ed.ac.uk/handle/10283/574).</description>
+<guid isPermaLink="false">urn:inteligencia-artificial-al-dia:episodio:17</guid>
+<pubDate>Tue, 27 Oct 2026 06:02:02 GMT</pubDate>
+<enclosure url="https://yamiltavip.github.io/inteligencia-artificial-al-dia-podcast/episodios/episodio_17_38b25ef13708.mp3" length="6688844" type="audio/mpeg"/>
+<itunes:episode>17</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+
+</item>
 <item>
 <title>Episodio 16: Seguridad y confianza en los modelos de inteligencia artificial</title>
 <description>Episodio 16 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-08-02.</description>
