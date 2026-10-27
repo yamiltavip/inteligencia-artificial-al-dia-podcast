@@ -1,147 +1,163 @@
 [
   {
     "numero": 1,
-    "titulo": "Episodio 1: Lo más importante de la semana en inteligencia artificial",
-    "descripcion": "Episodio 1 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-03-18.",
-    "fecha": "2026-03-18T07:00:00+02:00",
+    "titulo": "Capítulo 1: Lo más importante de la semana en inteligencia artificial",
+    "descripcion": "<p>Arrancamos Inteligencia Artificial al día.</p><p><br></p><p>En este primer episodio repasamos las noticias más importantes de la semana: avances en IA, movimientos de las grandes empresas, nuevas herramientas y lo que de verdad está marcando el rumbo.</p><p><br></p><p>Un resumen claro, dinámico y sin humo para ponerte al día en minutos.</p>",
+    "fecha": "2026-03-18T15:40:09Z",
     "file": "episodios/episodio_01.mp3",
-    "guid": "urn:inteligencia-artificial-al-dia:episodio:1",
-    "pendienteGuidOriginal": true
+    "guid": "7a3fe1cf-1324-45fb-98b8-8559656b94b5",
+    "duracion": "00:20:07",
+    "linkOriginal": "https://podcasters.spotify.com/pod/show/yamil/episodes/Captulo-1-Lo-ms-importante-de-la-semana-en-inteligencia-artificial-e3gkpf2"
   },
   {
     "numero": 2,
-    "titulo": "Episodio 2: La actualidad de la inteligencia artificial: episodio 2",
-    "descripcion": "Episodio 2 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-03-25.",
-    "fecha": "2026-03-25T07:00:00+02:00",
+    "titulo": "Inteligencia Artificial al día #2 | Las 4 noticias más importantes de la semana",
+    "descripcion": "<p></p><p><strong>En este segundo episodio de Inteligencia Artificial al día repasamos las 4 noticias más importantes de la semana en el mundo de la IA.</strong><br>Analizamos los avances, lanzamientos, movimientos de empresas y cambios que están marcando el presente y el futuro de la inteligencia artificial, explicado de forma clara, directa y fácil de seguir.</p><p>Si quieres estar al día sin perder tiempo entre titulares confusos, este podcast es para ti.</p><p><strong>Cada semana, un nuevo episodio con las noticias más relevantes de la inteligencia artificial.</strong></p><p>Síguelo en Spotify y compártelo con quien quiera entender de verdad lo que está pasando en la IA.</p><p></p>",
+    "fecha": "2026-03-25T09:00:00Z",
     "file": "episodios/episodio_02.mp3",
-    "guid": "urn:inteligencia-artificial-al-dia:episodio:2",
-    "pendienteGuidOriginal": true
+    "guid": "c216d9ad-1826-4046-be2b-854385a3b762",
+    "duracion": "00:19:47",
+    "linkOriginal": "https://podcasters.spotify.com/pod/show/yamil/episodes/Inteligencia-Artificial-al-da-2--Las-4-noticias-ms-importantes-de-la-semana-e3gu5vs"
   },
   {
     "numero": 3,
-    "titulo": "Episodio 3: La IA que está cambiando el juego y cómo aprovecharla hoy",
-    "descripcion": "Episodio 3 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-04-01.",
-    "fecha": "2026-04-01T07:00:00+02:00",
+    "titulo": "Episodio 3: La IA que está cambiando el juego (y cómo aprovecharla hoy)",
+    "descripcion": "<p></p><p>En este episodio de <em>Inteligencia Artificial al día</em> te contamos lo más importante que está pasando ahora mismo en el mundo de la IA… y lo que realmente te afecta.</p><p>🚀 Nuevas herramientas que están revolucionando cómo trabajamos<br>💡 Oportunidades reales para emprender con inteligencia artificial<br>⚠️ Cambios que pueden impactar tu trabajo antes de lo que imaginas</p><p>Todo explicado de forma clara, directa y sin humo.</p><p>Este no es un podcast más sobre tecnología.<br>Es una guía para entender el presente… y adelantarte al futuro.</p><p>🎧 Dale al play y ponte al día en menos de 20 minutos.</p><p>Si quieres estar siempre un paso por delante:<br>👉 Síguenos y no te pierdas los próximos episodios</p><p></p>",
+    "fecha": "2026-04-02T08:19:12Z",
     "file": "episodios/episodio_03.mp3",
-    "guid": "urn:inteligencia-artificial-al-dia:episodio:3",
-    "pendienteGuidOriginal": true
+    "guid": "2f28bc08-0f07-4c38-9fc0-dd6e330c53fb",
+    "duracion": "00:20:33",
+    "linkOriginal": "https://podcasters.spotify.com/pod/show/yamil/episodes/Episodio-3-La-IA-que-est-cambiando-el-juego-y-cmo-aprovecharla-hoy-e3hangb"
   },
   {
     "numero": 4,
-    "titulo": "Episodio 4: Estas IAs ya están sustituyendo trabajos y nadie te lo está contando",
-    "descripcion": "Episodio 4 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-04-09.",
-    "fecha": "2026-04-09T07:00:00+02:00",
+    "titulo": "Episodio 4: Estas IAs ya están sustituyendo trabajos (y nadie te lo está contando)",
+    "descripcion": "<p></p><p>La inteligencia artificial no viene… ya está aquí.<br>Y está cambiando el mercado más rápido de lo que parece.</p><p>En este episodio te contamos:</p><p>🤖 Qué trabajos ya están siendo reemplazados por IA<br>💼 Qué perfiles están en riesgo (y cuáles van a crecer)<br>💡 Cómo puedes adaptarte y aprovechar esta ola en lugar de sufrirla</p><p>Todo explicado de forma simple, directa y sin tecnicismos.</p><p>Si trabajas, emprendes o quieres entender hacia dónde va el mundo…<br>este episodio es obligatorio.</p><p>🎧 Escúchalo ahora y prepárate para lo que viene.</p><p>👉 Síguenos para no quedarte atrás en la revolución de la inteligencia artificial</p><p></p>",
+    "fecha": "2026-04-09T08:55:35Z",
     "file": "episodios/episodio_04.mp3",
-    "guid": "urn:inteligencia-artificial-al-dia:episodio:4",
-    "pendienteGuidOriginal": true
+    "guid": "174c2995-369e-4a6b-8677-27a777f0a484",
+    "duracion": "00:18:40",
+    "linkOriginal": "https://podcasters.spotify.com/pod/show/yamil/episodes/Episodio-4-Estas-IAs-ya-estn-sustituyendo-trabajos-y-nadie-te-lo-est-contando-e3hl5s2"
   },
   {
     "numero": 5,
-    "titulo": "Episodio 5: La IA que puede hacer dinero por ti y cómo empezar hoy",
-    "descripcion": "Episodio 5 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-04-16.",
-    "fecha": "2026-04-16T07:00:00+02:00",
+    "titulo": "Episodio 5: La IA que puede hacer dinero por ti (y cómo empezar hoy)",
+    "descripcion": "<p>La inteligencia artificial ya no es solo una herramienta…<br>puede convertirse en una fuente de ingresos.</p><p>En este episodio de <em>Inteligencia Artificial al día</em> te contamos:</p><p>💸 Formas reales de ganar dinero con IA<br>🤖 Herramientas que puedes empezar a usar hoy mismo<br>📈 Ideas que ya están funcionando (aunque pocos las cuentan)</p><p>Todo explicado de forma clara, directa y aplicable.</p><p>Si quieres pasar de consumir contenido… a aprovechar la IA de verdad, este episodio es para ti.</p><p>🎧 Dale al play y descubre cómo empezar hoy.</p><p>👉 Síguenos para no perderte ninguna oportunidad en el mundo de la inteligencia artificial</p><p></p>",
+    "fecha": "2026-04-16T08:30:01Z",
     "file": "episodios/episodio_05.mp3",
-    "guid": "urn:inteligencia-artificial-al-dia:episodio:5",
-    "pendienteGuidOriginal": true
+    "guid": "c60ce4aa-c5f2-4983-92f5-a48bf30bee56",
+    "duracion": "00:20:20",
+    "linkOriginal": "https://podcasters.spotify.com/pod/show/yamil/episodes/Episodio-5-La-IA-que-puede-hacer-dinero-por-ti-y-cmo-empezar-hoy-e3hviem"
   },
   {
     "numero": 6,
-    "titulo": "Episodio 6: La IA que nadie está usando y puede darte ventaja ahora",
-    "descripcion": "Episodio 6 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-04-23.",
-    "fecha": "2026-04-23T07:00:00+02:00",
+    "titulo": "Episodio 6: La IA que nadie está usando (y puede darte ventaja ahora)",
+    "descripcion": "<p>Mientras todos hablan de las mismas herramientas…<br>hay inteligencias artificiales que están pasando desapercibidas.</p><p>Y ahí está la oportunidad.</p><p>En este episodio de <em>Inteligencia Artificial al día</em> te contamos:</p><p>🧠 Herramientas de IA poco conocidas pero muy potentes<br>🚀 Cómo usarlas antes de que se vuelvan virales<br>💡 Ideas prácticas para sacarles ventaja desde hoy</p><p>Porque en este momento…<br>la ventaja no está en saber de IA,<br>sino en usar la que otros aún no conocen.</p><p>🎧 Escúchalo ahora y ponte por delante.</p><p>👉 Síguenos para descubrir antes que nadie las próximas oportunidades en inteligencia artificial</p><p></p>",
+    "fecha": "2026-04-23T09:34:13Z",
     "file": "episodios/episodio_06.mp3",
-    "guid": "urn:inteligencia-artificial-al-dia:episodio:6",
-    "pendienteGuidOriginal": true
+    "guid": "30d861f9-8718-4159-b328-f79bdae10ab7",
+    "duracion": "00:22:12",
+    "linkOriginal": "https://podcasters.spotify.com/pod/show/yamil/episodes/Episodio-6-La-IA-que-nadie-est-usando-y-puede-darte-ventaja-ahora-e3ibghk"
   },
   {
     "numero": 7,
-    "titulo": "Episodio 7: Las herramientas de IA que te harán trabajar 10 veces más rápido",
-    "descripcion": "Episodio 7 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-04-30.",
-    "fecha": "2026-04-30T07:00:00+02:00",
+    "titulo": "Episodio 7: Las herramientas de IA que te harán trabajar 10x más rápido",
+    "descripcion": "<p></p><p>La inteligencia artificial no solo está cambiando el mundo…<br>está multiplicando la productividad de quienes saben usarla.</p><p>En este episodio de <em>Inteligencia Artificial al día</em> te contamos:</p><p>⚡ Herramientas de IA que están ahorrando horas de trabajo<br>🧠 Cómo aplicarlas en tu día a día (aunque no seas experto)<br>🚀 Formas reales de trabajar más rápido y mejor</p><p>Porque la diferencia ya no está en trabajar más…<br>sino en trabajar con inteligencia.</p><p>🎧 Dale al play y descubre cómo empezar hoy mismo.</p><p>👉 Síguenos para seguir aprovechando todo el potencial de la inteligencia artificial</p><p></p>",
+    "fecha": "2026-04-30T13:43:21Z",
     "file": "episodios/episodio_07.mp3",
-    "guid": "urn:inteligencia-artificial-al-dia:episodio:7",
-    "pendienteGuidOriginal": true
+    "guid": "0fecb119-096d-4eaf-93ba-5015081fc485",
+    "duracion": "00:21:13",
+    "linkOriginal": "https://podcasters.spotify.com/pod/show/yamil/episodes/Episodio-7-Las-herramientas-de-IA-que-te-harn-trabajar-10x-ms-rpido-e3imq0j"
   },
   {
     "numero": 8,
     "titulo": "Episodio 8: Musk pierde contra Altman y Alexa se convierte en podcaster",
-    "descripcion": "Episodio 8 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-05-19.",
-    "fecha": "2026-05-19T07:00:00+02:00",
+    "descripcion": "<p>En este episodio de <em>Inteligencia Artificial al día</em> repasamos dos noticias que muestran hacia dónde se mueve el mundo de la IA.</p><p>Por un lado, Elon Musk perdió su juicio contra OpenAI y Sam Altman, después de que el tribunal considerara que sus reclamaciones llegaron demasiado tarde. Un caso clave que vuelve a poner sobre la mesa la tensión entre la inteligencia artificial abierta, los intereses empresariales y el futuro de OpenAI. </p><p>Además, hablamos de la nueva función de Alexa+, que ya puede crear episodios de podcast generados con inteligencia artificial sobre prácticamente cualquier tema, usando información de más de 200 medios asociados. </p><p>Un episodio sobre poder, tecnología, asistentes inteligentes y el futuro de los contenidos creados por IA.</p><p></p>",
+    "fecha": "2026-05-18T22:36:45Z",
     "file": "episodios/episodio_08.mp3",
-    "guid": "urn:inteligencia-artificial-al-dia:episodio:8",
-    "pendienteGuidOriginal": true
+    "guid": "52c49b6b-a061-4648-a5d7-f48c4606e19f",
+    "duracion": "00:04:55",
+    "linkOriginal": "https://podcasters.spotify.com/pod/show/yamil/episodes/Episodio-8-Musk-pierde-contra-Altman-y-Alexa-se-convierte-en-podcaster-e3jiilv"
   },
   {
     "numero": 9,
-    "titulo": "Episodio 9: Inteligencia Artificial al día (28 de mayo de 2026)",
-    "descripcion": "Episodio 9 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-05-28.",
-    "fecha": "2026-05-28T07:00:00+02:00",
+    "titulo": "Episodio 9: Nvidia quiere crear robots inteligentes… y esta app ya parece del futuro",
+    "descripcion": "<p>La inteligencia artificial sigue avanzando a una velocidad brutal… y este episodio es prueba de ello.</p><p>En el episodio 9 de <em>Inteligencia Artificial al día</em> hablamos de:</p><p>🧠 El nuevo hardware de Nvidia diseñado para agentes autónomos<br>🤖 Cómo podría cambiar el futuro de los robots y la automatización<br>📱 Y una sorprendente app de Singapur que parece sacada de ciencia ficción</p><p>Cada semana la IA deja de ser “el futuro” para convertirse más en el presente.</p><p>🎧 Episodio corto, directo y fácil de escuchar en solo unos minutos.</p><p>👉 Síguenos para mantenerte al día con lo más importante del mundo de la inteligencia artificial</p><p></p>",
+    "fecha": "2026-05-28T09:02:06Z",
     "file": "episodios/episodio_09.mp3",
-    "guid": "urn:inteligencia-artificial-al-dia:episodio:9",
-    "pendienteGuidOriginal": true
+    "guid": "869ac0d9-731f-4ced-9c09-7567c9d67487",
+    "duracion": "00:05:41",
+    "linkOriginal": "https://podcasters.spotify.com/pod/show/yamil/episodes/Episodio-9-Nvidia-quiere-crear-robots-inteligentes-y-esta-app-ya-parece-del-futuro-e3k0ot3"
   },
   {
     "numero": 10,
-    "titulo": "Episodio 10: Inteligencia Artificial al día (6 de junio de 2026)",
-    "descripcion": "Episodio 10 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-06-06.",
-    "fecha": "2026-06-06T07:00:00+02:00",
+    "titulo": "Episodio 10: ChatGPT entra en modo lockdown y Siri prepara su mayor cambio",
+    "descripcion": "<p>La carrera de la inteligencia artificial no se detiene, y esta semana dos gigantes han sido protagonistas.</p><p>En el episodio 10 de <em>Inteligencia Artificial al día</em> hablamos de:</p><p>🔒 El nuevo &quot;Lockdown Mode&quot; de ChatGPT y lo que significa para la seguridad y el control de la IA<br>🍎 La esperada actualización de Siri y cómo Apple quiere ponerse al día en la revolución de la inteligencia artificial<br>🧠 Qué impacto pueden tener estos cambios en los usuarios y en el futuro de los asistentes inteligentes</p><p>Cada semana resumimos las noticias más importantes del mundo de la IA de forma rápida, sencilla y sin tecnicismos.</p><p>🎧 Solo 5 minutos para estar al día con lo que realmente importa.</p><p>👉 Sigue el podcast para no perderte ningún episodio y mantenerte al día con la revolución de la inteligencia artificial. 🚀🤖</p><p></p>",
+    "fecha": "2026-06-07T04:50:14Z",
     "file": "episodios/episodio_10.mp3",
-    "guid": "urn:inteligencia-artificial-al-dia:episodio:10",
-    "pendienteGuidOriginal": true
+    "guid": "f4ae440a-2fa2-40f5-99a5-9359d0e7a41d",
+    "duracion": "00:05:52",
+    "linkOriginal": "https://podcasters.spotify.com/pod/show/yamil/episodes/Episodio-10-ChatGPT-entra-en-modo-lockdown-y-Siri-prepara-su-mayor-cambio-e3kegra"
   },
   {
     "numero": 11,
-    "titulo": "Episodio 11: Inteligencia Artificial al día (11 de junio de 2026)",
-    "descripcion": "Episodio 11 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-06-11.",
-    "fecha": "2026-06-11T07:00:00+02:00",
+    "titulo": "Episodio 11: Google DeepMind vuelve a mover la carrera de la IA",
+    "descripcion": "<p>Google DeepMind vuelve a ser protagonista en el mundo de la inteligencia artificial.</p><p>En el episodio 11 de <em>Inteligencia Artificial al día</em> hablamos de:</p><p>🧠 Qué está preparando Google DeepMind<br>🚀 Por qué puede cambiar la carrera de la IA<br>🤖 Cómo estos avances pueden impactar en herramientas, empresas y usuarios</p><p>Un episodio corto, claro y directo para entender lo más importante sin perder tiempo.</p><p>🎧 En solo 5 minutos, ponte al día con la inteligencia artificial.</p><p></p>",
+    "fecha": "2026-06-11T21:36:01Z",
     "file": "episodios/episodio_11.mp3",
-    "guid": "urn:inteligencia-artificial-al-dia:episodio:11",
-    "pendienteGuidOriginal": true
+    "guid": "934ada22-f003-4c76-9bf4-f7d76b05cc4e",
+    "duracion": "00:04:46",
+    "linkOriginal": "https://podcasters.spotify.com/pod/show/yamil/episodes/Episodio-11-Google-DeepMind-vuelve-a-mover-la-carrera-de-la-IA-e3km220"
   },
   {
     "numero": 12,
-    "titulo": "Episodio 12: Inteligencia Artificial al día (18 de junio de 2026)",
-    "descripcion": "Episodio 12 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-06-18.",
-    "fecha": "2026-06-18T07:00:00+02:00",
+    "titulo": "Episodio 12: La IA multimodal ya está aquí… y podría detectar enfermedades antes que nadie",
+    "descripcion": "<p>La inteligencia artificial sigue sorprendiendo, y esta semana conocemos dos avances que podrían tener un impacto enorme en nuestras vidas.</p><p>En el episodio 12 de <em>Inteligencia Artificial al día</em> hablamos de:</p><p>🧠 Qué es la IA multimodal y por qué está marcando el futuro de la inteligencia artificial<br>🔬 Una innovadora aplicación capaz de ayudar a detectar enfermedades degenerativas en menores de forma temprana<br>🚀 Cómo estas tecnologías pueden transformar la salud, la educación y nuestra relación con la IA</p><p>Todo explicado de forma sencilla, rápida y sin tecnicismos.</p><p>🎧 En solo 5 minutos, descubre los avances más importantes de la semana en inteligencia artificial.</p><p>👉 Sigue el podcast para mantenerte al día con las noticias y tendencias que están cambiando el mundo. 🤖⚡</p><p></p>",
+    "fecha": "2026-06-18T21:10:22Z",
     "file": "episodios/episodio_12.mp3",
-    "guid": "urn:inteligencia-artificial-al-dia:episodio:12",
-    "pendienteGuidOriginal": true
+    "guid": "e4b870ae-ea72-4cdc-a582-25548fa84b72",
+    "duracion": "00:04:46",
+    "linkOriginal": "https://podcasters.spotify.com/pod/show/yamil/episodes/Episodio-12-La-IA-multimodal-ya-est-aqu-y-podra-detectar-enfermedades-antes-que-nadie-e3kvuqs"
   },
   {
     "numero": 13,
-    "titulo": "Episodio 13: Inteligencia Artificial al día (25 de junio de 2026)",
-    "descripcion": "Episodio 13 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-06-25.",
-    "fecha": "2026-06-25T07:00:00+02:00",
+    "titulo": "Episodio 13: El futuro de la IA depende de estos chips (y de consumir mucha menos energía)",
+    "descripcion": "<p>La inteligencia artificial no solo avanza gracias al software. El verdadero cambio también está ocurriendo en el hardware.</p><p>En el episodio 13 de <em>Inteligencia Artificial al día</em> hablamos de:</p><p>⚙️ Los nuevos chips diseñados para impulsar la próxima generación de inteligencia artificial<br>⚡ Cómo la eficiencia energética se está convirtiendo en uno de los mayores desafíos del sector<br>🌍 Por qué consumir menos energía será clave para el futuro de la IA y de los centros de datos</p><p>Descubre cómo la innovación en hardware está haciendo posible una inteligencia artificial más rápida, potente y sostenible.</p><p>🎧 En solo 5 minutos, ponte al día con las noticias más importantes del mundo de la inteligencia artificial.</p><p>👉 Sigue <em>Inteligencia Artificial al día</em> y descubre cada semana los avances que están transformando el futuro. 🤖🚀</p><p></p>",
+    "fecha": "2026-06-25T09:01:00Z",
     "file": "episodios/episodio_13.mp3",
-    "guid": "urn:inteligencia-artificial-al-dia:episodio:13",
-    "pendienteGuidOriginal": true
+    "guid": "58535fa5-433a-4d63-a614-20e206e7fb47",
+    "duracion": "00:05:41",
+    "linkOriginal": "https://podcasters.spotify.com/pod/show/yamil/episodes/Episodio-13-El-futuro-de-la-IA-depende-de-estos-chips-y-de-consumir-mucha-menos-energa-e3l8q58"
   },
   {
     "numero": 14,
-    "titulo": "Episodio 14: Inteligencia Artificial al día (9 de julio de 2026)",
-    "descripcion": "Episodio 14 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-07-09.",
-    "fecha": "2026-07-09T07:00:00+02:00",
+    "titulo": "Episodio 14: Google Gemini 3.5 rompe la barrera del idioma con IA",
+    "descripcion": "<p>La inteligencia artificial sigue acercando el mundo, y Google acaba de dar un paso muy importante.</p><p>En el episodio 14 de <em>Inteligencia Artificial al día</em> hablamos de:</p><p>🌍 Las novedades de Google Gemini 3.5 en traducción automática<br>🗣️ Cómo la IA está consiguiendo traducciones cada vez más naturales y precisas<br>🚀 El impacto que esta tecnología puede tener en la comunicación, los negocios y los viajes</p><p>Cada semana resumimos las noticias más relevantes del mundo de la inteligencia artificial para que estés siempre al día, de forma rápida y sencilla.</p><p>🎧 En solo 5 minutos descubre cómo la IA sigue eliminando barreras entre personas, idiomas y culturas.</p><p>👉 Sigue <em>Inteligencia Artificial al día</em> y no te pierdas los avances que están definiendo el futuro de la tecnología. 🤖🎙️</p><p></p>",
+    "fecha": "2026-07-09T14:25:37Z",
     "file": "episodios/episodio_14.mp3",
-    "guid": "urn:inteligencia-artificial-al-dia:episodio:14",
-    "pendienteGuidOriginal": true
+    "guid": "48649232-d53c-435d-b01c-d726e1b5d991",
+    "duracion": "00:05:40",
+    "linkOriginal": "https://podcasters.spotify.com/pod/show/yamil/episodes/Episodio-14-Google-Gemini-3-5-rompe-la-barrera-del-idioma-con-IA-e3ls5mv"
   },
   {
     "numero": 15,
-    "titulo": "Episodio 15: Inteligencia Artificial al día (21 de julio de 2026)",
-    "descripcion": "Episodio 15 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-07-21.",
-    "fecha": "2026-07-21T07:00:00+02:00",
+    "titulo": "Episodio 15: El gran problema de los agentes de IA que preocupa a las empresas",
+    "descripcion": "<p>Los agentes de inteligencia artificial prometen revolucionar la forma de trabajar… pero las empresas todavía se enfrentan a importantes desafíos para adoptarlos.</p><p>En el episodio 15 de <em>Inteligencia Artificial al día</em> analizamos:</p><p>🤖 Por qué los agentes de IA están generando tanto interés en el mundo empresarial<br>⚠️ Los principales problemas que frenan su implementación en las organizaciones<br>🏢 Qué obstáculos deben superar las empresas para aprovechar todo su potencial</p><p>Descubre por qué esta tecnología puede transformar la productividad de los negocios, pero también qué riesgos y limitaciones existen hoy.</p><p>🎧 En solo 5 minutos, ponte al día con una de las tendencias más importantes de la inteligencia artificial.</p><p>👉 Sigue <em>Inteligencia Artificial al día</em> y descubre cada semana las noticias y avances que están definiendo el futuro de la IA. 🚀🤖</p><p>📝 DESCRIPCIÓN</p>",
+    "fecha": "2026-07-21T11:33:13Z",
     "file": "episodios/episodio_15.mp3",
-    "guid": "urn:inteligencia-artificial-al-dia:episodio:15",
-    "pendienteGuidOriginal": true
+    "guid": "39b3b0f7-b0f4-46e0-81c4-f3fa5c9dbd97",
+    "duracion": "00:04:44",
+    "linkOriginal": "https://podcasters.spotify.com/pod/show/yamil/episodes/Episodio-15-El-gran-problema-de-los-agentes-de-IA-que-preocupa-a-las-empresas-e3mbots"
   },
   {
     "numero": 16,
-    "titulo": "Episodio 16: Seguridad y confianza en los modelos de inteligencia artificial",
-    "descripcion": "Episodio 16 del podcast Inteligencia Artificial al día, con Clara y Marc. Edición publicada originalmente el 2026-08-02.",
-    "fecha": "2026-08-02T07:00:00+02:00",
+    "titulo": "Episodio 16: ¿Podemos confiar en la IA? El gran reto de la seguridad en los LLM",
+    "descripcion": "<p><strong>Episodio 16: ¿Podemos confiar en la IA? El gran reto de la seguridad en los LLM</strong></p><p>Los modelos de lenguaje (LLM) son cada vez más potentes, pero también plantean nuevos desafíos en materia de seguridad, privacidad y fiabilidad.</p><p>En el episodio 16 de <em>Inteligencia Artificial al día</em> hablamos de:</p><p>🔒 Por qué la seguridad se ha convertido en una prioridad para los grandes modelos de IA<br>🧠 Los principales riesgos a los que se enfrentan empresas y usuarios al utilizar LLM<br>🛡️ Qué medidas se están desarrollando para hacer que la inteligencia artificial sea más segura y confiable</p><p>La IA avanza a gran velocidad, pero su adopción depende de algo fundamental: que podamos utilizarla con confianza.</p><p>🎧 En solo 5 minutos descubre una de las cuestiones más importantes para el futuro de la inteligencia artificial.</p><p>👉 Sigue <em>Inteligencia Artificial al día</em> y mantente al día con las noticias, avances y desafíos que están definiendo el futuro de la IA. 🤖🚀</p><p>📝 DESCRIPCIÓN</p>",
+    "fecha": "2026-08-02T08:53:15Z",
     "file": "episodios/episodio_16.mp3",
-    "guid": "urn:inteligencia-artificial-al-dia:episodio:16",
-    "pendienteGuidOriginal": true
+    "guid": "915d1341-bf9a-485c-bfd1-3f90d87ace9f",
+    "duracion": "00:05:16",
+    "linkOriginal": "https://podcasters.spotify.com/pod/show/yamil/episodes/Episodio-16-Podemos-confiar-en-la-IA--El-gran-reto-de-la-seguridad-en-los-LLM-e3mrpiv"
   },
   {
     "numero": 17,
