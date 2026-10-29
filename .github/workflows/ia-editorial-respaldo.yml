@@ -1,0 +1,41 @@
+name: IA al Día - respaldo editorial gratuito (solo borradores)
+
+on:
+  push:
+    paths:
+      - '.github/workflows/ia-editorial-respaldo.yml'
+      - 'editorial_ia/**'
+  workflow_dispatch:
+  schedule:
+    - cron: '37 17 * * *'
+      timezone: 'Europe/Madrid'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: iad-editorial-backup-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  solo_borradores:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Clonar el repositorio público del podcast
+        uses: actions/checkout@v4
+      - name: Instalar Python sin APIs de pago
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Comprobar selección, fechas y no publicación
+        run: python -m unittest discover -s editorial_ia/tests -v
+      - name: Recopilar RSS únicamente para borradores
+        run: python editorial_ia/github_radar.py --episodes episodios.json --output-dir editorial_ia/output
+      - name: Guardar borrador como artifact privado de ejecución (14 días)
+        uses: actions/upload-artifact@v4
+        with:
+          name: iad-radar-${{ github.run_id }}
+          path: editorial_ia/output/candidatos_*.json
+          if-no-files-found: error
+          retention-days: 14
