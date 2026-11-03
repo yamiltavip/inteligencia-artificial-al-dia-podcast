@@ -1,0 +1,31 @@
+{
+  "schema": "iad-podcast-voices-esES-v1",
+  "locale": "es-ES",
+  "language": "español peninsular",
+  "Marc": {
+    "voice": "es-ES-Chirp3-HD-Puck",
+    "speaker": "male"
+  },
+  "Clara": {
+    "voice": "es-ES-Chirp3-HD-Aoede",
+    "speaker": "female"
+  },
+  "provider": "Google Cloud Chirp3 HD existing free-tier setup",
+  "free_quota_provider_chars_per_month": 1000000,
+  "local_block_before_chars_per_month": 120000,
+  "fallback": "BLOCK_NOT_PUBLISH",
+  "forbidden": [
+    "Kokoro ef_dora",
+    "Kokoro em_alex",
+    "es-419",
+    "es-US",
+    "automatic Piper fallback"
+  ],
+  "episode18_required_corrective": true,
+  "next_episodes": "require same fixed voices or fail; never auto substitute",
+  "validation": [
+    "X-TTS-Provider must be google-chirp3-hd",
+    "episode dryrun+duration+ASR+RSS+old episodes unchanged"
+  ],
+  "notes": "Conserva intro, outro y estilo editorial. No usa servicios por encima de límite preventivo."
+}

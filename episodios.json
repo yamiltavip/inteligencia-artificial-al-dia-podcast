@@ -180,11 +180,11 @@
   {
     "numero": 18,
     "titulo": "Episodio 18: ¿La IA nos hace trabajar más? Agentes, robots y ayudas reales",
-    "descripcion": "En el episodio 18, Marc y Clara analizan cinco noticias de inteligencia artificial: 1. La relación entre uso de IA y duración de las jornadas laborales (estudio observacional de ActivTrak). 2. LifeVal, una evaluación de OpenAI para tareas prácticas de la vida cotidiana. 3. CoCo y CoWork de Snowflake, con controles para agentes empresariales. 4. NVIDIA Cosmos y la simulación para robótica y vehículos. 5. Pando, la infraestructura de OpenAI para coordinar el desarrollo asistido por agentes. Las cifras y afirmaciones de las compañías se presentan con sus limitaciones; correlación no implica causalidad. Fuentes primarias: https://www.activtrak.com/blog/productivity-lab-ai-users-longer-workdays/ ; https://openai.com/index/lifeval/ ; https://www.snowflake.com/en/news/press-releases/expedition-2026-coco-cowork/ ; https://developer.nvidia.com/blog/build-world-models-for-interactive-simulation-with-nvidia-cosmos ; https://openai.com/index/scaling-git-at-openai/. Presentan Marc y Clara, voces sintéticas en español generadas localmente con Kokoro. Producción propia sin servicios de síntesis de pago. Duración aproximada: once minutos.",
+    "descripcion": "En el episodio 18, Marc y Clara analizan cinco noticias de inteligencia artificial: 1. La relación entre uso de IA y duración de las jornadas laborales (estudio observacional de ActivTrak). 2. LifeVal, una evaluación de OpenAI para tareas prácticas de la vida cotidiana. 3. CoCo y CoWork de Snowflake, con controles para agentes empresariales. 4. NVIDIA Cosmos y la simulación para robótica y vehículos. 5. Pando, la infraestructura de OpenAI para coordinar el desarrollo asistido por agentes. Las cifras y afirmaciones de las compañías se presentan con sus limitaciones; correlación no implica causalidad. Fuentes primarias: https://www.activtrak.com/blog/productivity-lab-ai-users-longer-workdays/ ; https://openai.com/index/lifeval/ ; https://www.snowflake.com/en/news/press-releases/expedition-2026-coco-cowork/ ; https://developer.nvidia.com/blog/build-world-models-for-interactive-simulation-with-nvidia-cosmos ; https://openai.com/index/scaling-git-at-openai/. Presentan Marc y Clara con voces españolas peninsulares es-ES Chirp 3 HD. Marc: Puck; Clara: Aoede. Locución elaborada dentro del cupo gratuito del proveedor, con límite preventivo configurado. Intro y despedida originales. Duración aproximada: doce minutos.",
     "fecha": "2026-11-03T21:29:05Z",
-    "file": "episodios/episodio_18_93567b2eb4e0.mp3",
+    "file": "episodios/episodio_18_c23ad68948a1.mp3",
     "guid": "urn:inteligencia-artificial-al-dia:episodio:18",
-    "hash": "93567b2eb4e0ea4707beab379e8b55d66de936a58af7c173e2996bd7baafba32",
+    "hash": "c23ad68948a1651c814138b3d1a866a7fe359f68bc00f56d877b619b5de7c79d",
     "fuentes": [
       "https://www.activtrak.com/blog/productivity-lab-ai-users-longer-workdays/",
       "https://openai.com/index/lifeval/",
@@ -192,7 +192,7 @@
       "https://developer.nvidia.com/blog/build-world-models-for-interactive-simulation-with-nvidia-cosmos",
       "https://openai.com/index/scaling-git-at-openai/"
     ],
-    "duracionSegundos": 664.597708,
-    "duracion": "11:05"
+    "duracionSegundos": 723.17,
+    "duracion": "12:03"
   }
 ]

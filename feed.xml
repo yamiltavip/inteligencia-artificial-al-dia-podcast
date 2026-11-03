@@ -19,18 +19,18 @@ Noticias, avances, empresas, herramientas y lo que realmente importa, sin humo y
 <itunes:category text="Technology"/>
 <itunes:image href="https://yamiltavip.github.io/inteligencia-artificial-al-dia-podcast/portada_spotify_original.jpg"/>
 <image><url>https://yamiltavip.github.io/inteligencia-artificial-al-dia-podcast/portada_spotify_original.jpg</url><title>Inteligencia Artificial al día</title><link>https://yamiltavip.github.io/inteligencia-artificial-al-dia-podcast/</link></image>
-<lastBuildDate>Tue, 03 Nov 2026 21:29:36 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 22:11:30 GMT</lastBuildDate>
 <item>
 <title>Episodio 18: ¿La IA nos hace trabajar más? Agentes, robots y ayudas reales</title>
-<description>En el episodio 18, Marc y Clara analizan cinco noticias de inteligencia artificial: 1. La relación entre uso de IA y duración de las jornadas laborales (estudio observacional de ActivTrak). 2. LifeVal, una evaluación de OpenAI para tareas prácticas de la vida cotidiana. 3. CoCo y CoWork de Snowflake, con controles para agentes empresariales. 4. NVIDIA Cosmos y la simulación para robótica y vehículos. 5. Pando, la infraestructura de OpenAI para coordinar el desarrollo asistido por agentes. Las cifras y afirmaciones de las compañías se presentan con sus limitaciones; correlación no implica causalidad. Fuentes primarias: https://www.activtrak.com/blog/productivity-lab-ai-users-longer-workdays/ ; https://openai.com/index/lifeval/ ; https://www.snowflake.com/en/news/press-releases/expedition-2026-coco-cowork/ ; https://developer.nvidia.com/blog/build-world-models-for-interactive-simulation-with-nvidia-cosmos ; https://openai.com/index/scaling-git-at-openai/. Presentan Marc y Clara, voces sintéticas en español generadas localmente con Kokoro. Producción propia sin servicios de síntesis de pago. Duración aproximada: once minutos.</description>
+<description>En el episodio 18, Marc y Clara analizan cinco noticias de inteligencia artificial: 1. La relación entre uso de IA y duración de las jornadas laborales (estudio observacional de ActivTrak). 2. LifeVal, una evaluación de OpenAI para tareas prácticas de la vida cotidiana. 3. CoCo y CoWork de Snowflake, con controles para agentes empresariales. 4. NVIDIA Cosmos y la simulación para robótica y vehículos. 5. Pando, la infraestructura de OpenAI para coordinar el desarrollo asistido por agentes. Las cifras y afirmaciones de las compañías se presentan con sus limitaciones; correlación no implica causalidad. Fuentes primarias: https://www.activtrak.com/blog/productivity-lab-ai-users-longer-workdays/ ; https://openai.com/index/lifeval/ ; https://www.snowflake.com/en/news/press-releases/expedition-2026-coco-cowork/ ; https://developer.nvidia.com/blog/build-world-models-for-interactive-simulation-with-nvidia-cosmos ; https://openai.com/index/scaling-git-at-openai/. Presentan Marc y Clara con voces españolas peninsulares es-ES Chirp 3 HD. Marc: Puck; Clara: Aoede. Locución elaborada dentro del cupo gratuito del proveedor, con límite preventivo configurado. Intro y despedida originales. Duración aproximada: doce minutos.</description>
 <guid isPermaLink="false">urn:inteligencia-artificial-al-dia:episodio:18</guid>
 <pubDate>Tue, 03 Nov 2026 21:29:05 GMT</pubDate>
-<enclosure url="https://yamiltavip.github.io/inteligencia-artificial-al-dia-podcast/episodios/episodio_18_93567b2eb4e0.mp3" length="10730540" type="audio/mpeg"/>
+<enclosure url="https://yamiltavip.github.io/inteligencia-artificial-al-dia-podcast/episodios/episodio_18_c23ad68948a1.mp3" length="11571884" type="audio/mpeg"/>
 <itunes:episode>18</itunes:episode>
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:season>1</itunes:season>
 <itunes:explicit>false</itunes:explicit>
-<itunes:duration>11:05</itunes:duration>
+<itunes:duration>12:03</itunes:duration>
 </item>
 <item>
 <title>Episodio 17: Cohere afirma que Qwen de Alibaba intentó enviar un archivo a Pekín</title>
