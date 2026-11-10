@@ -19,7 +19,19 @@ Noticias, avances, empresas, herramientas y lo que realmente importa, sin humo y
 <itunes:category text="Technology"/>
 <itunes:image href="https://yamiltavip.github.io/inteligencia-artificial-al-dia-podcast/portada_spotify_original.jpg"/>
 <image><url>https://yamiltavip.github.io/inteligencia-artificial-al-dia-podcast/portada_spotify_original.jpg</url><title>Inteligencia Artificial al día</title><link>https://yamiltavip.github.io/inteligencia-artificial-al-dia-podcast/</link></image>
-<lastBuildDate>Tue, 03 Nov 2026 22:11:30 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 22:56:28 GMT</lastBuildDate>
+<item>
+<title>Episodio 19: OpenAI adquiere la startup de viajes Odessia</title>
+<description>Esta semana, Marc y Clara comentan 5 noticias de inteligencia artificial: 1. OpenAI adquiere la startup de viajes Odessia | 2. Nueva York abre el registro previo a la ley RAISE de seguridad de IA | 3. Anthropic prepara su salida a bolsa: sus fundadores prevén vender acciones | 4. PSI explora el descubrimiento científico asistido por IA | 5. Google presenta dos sistemas TPU para seguridad y grandes contextos. Fuentes: https://www.phocuswire.com/news/startups/openai-acquires-ai-travel-agent-odessia ; https://www.nysenate.gov/legislation/bills/2025/S8828 ; https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/ ; https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/ ; https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/. Voces sintéticas peninsulares: Marc con es-ES-Chirp3-HD-Puck y Clara con es-ES-Chirp3-HD-Aoede, pausas naturales SSML. Si estas voces no están disponibles, el sistema bloquea la generación en vez de usar otras voces o acentos.</description>
+<guid isPermaLink="false">urn:inteligencia-artificial-al-dia:episodio:19</guid>
+<pubDate>Tue, 10 Nov 2026 22:56:28 GMT</pubDate>
+<enclosure url="https://yamiltavip.github.io/inteligencia-artificial-al-dia-podcast/episodios/episodio_19_cb87ca91ad56.mp3" length="8586188" type="audio/mpeg"/>
+<itunes:episode>19</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:season>1</itunes:season>
+<itunes:explicit>false</itunes:explicit>
+<itunes:duration>11:55</itunes:duration>
+</item>
 <item>
 <title>Episodio 18: ¿La IA nos hace trabajar más? Agentes, robots y ayudas reales</title>
 <description>En el episodio 18, Marc y Clara analizan cinco noticias de inteligencia artificial: 1. La relación entre uso de IA y duración de las jornadas laborales (estudio observacional de ActivTrak). 2. LifeVal, una evaluación de OpenAI para tareas prácticas de la vida cotidiana. 3. CoCo y CoWork de Snowflake, con controles para agentes empresariales. 4. NVIDIA Cosmos y la simulación para robótica y vehículos. 5. Pando, la infraestructura de OpenAI para coordinar el desarrollo asistido por agentes. Las cifras y afirmaciones de las compañías se presentan con sus limitaciones; correlación no implica causalidad. Fuentes primarias: https://www.activtrak.com/blog/productivity-lab-ai-users-longer-workdays/ ; https://openai.com/index/lifeval/ ; https://www.snowflake.com/en/news/press-releases/expedition-2026-coco-cowork/ ; https://developer.nvidia.com/blog/build-world-models-for-interactive-simulation-with-nvidia-cosmos ; https://openai.com/index/scaling-git-at-openai/. Presentan Marc y Clara con voces españolas peninsulares es-ES Chirp 3 HD. Marc: Puck; Clara: Aoede. Locución elaborada dentro del cupo gratuito del proveedor, con límite preventivo configurado. Intro y despedida originales. Duración aproximada: doce minutos.</description>

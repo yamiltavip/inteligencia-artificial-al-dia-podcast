@@ -194,5 +194,23 @@
     ],
     "duracionSegundos": 723.17,
     "duracion": "12:03"
+  },
+  {
+    "numero": 19,
+    "titulo": "Episodio 19: OpenAI adquiere la startup de viajes Odessia",
+    "descripcion": "Esta semana, Marc y Clara comentan 5 noticias de inteligencia artificial: 1. OpenAI adquiere la startup de viajes Odessia | 2. Nueva York abre el registro previo a la ley RAISE de seguridad de IA | 3. Anthropic prepara su salida a bolsa: sus fundadores prevén vender acciones | 4. PSI explora el descubrimiento científico asistido por IA | 5. Google presenta dos sistemas TPU para seguridad y grandes contextos. Fuentes: https://www.phocuswire.com/news/startups/openai-acquires-ai-travel-agent-odessia ; https://www.nysenate.gov/legislation/bills/2025/S8828 ; https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/ ; https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/ ; https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/. Voces sintéticas peninsulares: Marc con es-ES-Chirp3-HD-Puck y Clara con es-ES-Chirp3-HD-Aoede, pausas naturales SSML. Si estas voces no están disponibles, el sistema bloquea la generación en vez de usar otras voces o acentos.",
+    "fecha": "2026-11-10T22:56:28.616Z",
+    "file": "episodios/episodio_19_cb87ca91ad56.mp3",
+    "guid": "urn:inteligencia-artificial-al-dia:episodio:19",
+    "hash": "cb87ca91ad567772da26ff579a9636707a13c8025e577a5f7286b7ad2a290dc7",
+    "fuentes": [
+      "https://www.phocuswire.com/news/startups/openai-acquires-ai-travel-agent-odessia",
+      "https://www.nysenate.gov/legislation/bills/2025/S8828",
+      "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+      "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+      "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/"
+    ],
+    "duracionSegundos": 715.428,
+    "duracion": "11:55"
   }
 ]
