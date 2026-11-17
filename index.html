@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#143E38">
+<meta name="description" content="Inteligencia Artificial al día: el podcast semanal en español de España que explica 4 o 5 noticias de IA en unos 10–12 minutos. Con Marc y Clara, sin humo y sin vueltas.">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="es_ES">
+<meta property="og:site_name" content="Inteligencia Artificial al día">
+<meta property="og:title" content="Inteligencia Artificial al día | Noticias de IA en 12 minutos">
+<meta property="og:description" content="Las noticias que importan, explicadas en español con claridad y humor. Un episodio nuevo cada martes.">
+<meta property="og:url" content="https://yamiltavip.github.io/inteligencia-artificial-al-dia-podcast/">
+<meta property="og:image" content="https://yamiltavip.github.io/inteligencia-artificial-al-dia-podcast/portada_spotify_original.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="canonical" href="https://yamiltavip.github.io/inteligencia-artificial-al-dia-podcast/">
+<link rel="alternate" type="application/rss+xml" title="RSS Inteligencia Artificial al día" href="feed.xml">
+<title>Inteligencia Artificial al día | Noticias de IA en 12 minutos</title>
+<style>
+:root{--bg:#F7F6F2;--forest:#143E38;--teal:#1E5850;--coral:#C44431;--mint:#DCEDE5;--line:#CAD9D1}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--forest);font-family:system-ui,-apple-system,"Segoe UI",sans-serif;line-height:1.5}
+a{color:inherit}
+.skip{position:absolute;left:-1000px;top:0}.skip:focus{left:12px;z-index:10;background:white}
+.container{max-width:1100px;margin:auto;padding:0 24px}
+header{border-bottom:1px solid var(--line)}
+nav{display:flex;align-items:center;justify-content:space-between;gap:24px;min-height:82px}
+.logo{font-size:17px;font-weight:850;text-decoration:none;letter-spacing:-.5px}.logo b{color:var(--coral)}
+.navlinks{display:flex;gap:24px;flex-wrap:wrap}.navlinks a{font-size:14px;text-decoration:none;font-weight:650}
+.navlinks a:hover,.navlinks a:focus-visible{text-decoration:underline}
+.hero{padding:80px 0 66px;display:grid;grid-template-columns:1.1fr .8fr;gap:70px;align-items:center}
+.eyebrow{font-weight:800;font-size:15px;letter-spacing:.12em;color:var(--coral);text-transform:uppercase;margin:0 0 18px}
+h1{font-size:clamp(43px,5.4vw,75px);line-height:1.06;letter-spacing:-.047em;margin:0 0 28px}
+h1 span{color:var(--teal)}
+.lead{font-size:clamp(18px,2.1vw,22px);line-height:1.55;margin:0 0 30px;max-width:570px}
+.buttons{display:flex;gap:12px;flex-wrap:wrap;margin:28px 0}
+.button{display:inline-flex;align-items:center;justify-content:center;text-align:center;min-height:48px;border-radius:12px;padding:12px 19px;font-size:15px;font-weight:780;text-decoration:none;transition:transform .15s,background .15s}
+.button:hover{transform:translateY(-2px)}
+.primary{background:var(--forest);color:#fff}.primary:hover{background:var(--teal)}
+.secondary{background:transparent;border:1px solid var(--forest)}
+.note{color:#4B6A60;font-size:14px;margin:12px 0}
+.cover{width:100%;max-width:400px;aspect-ratio:1;border-radius:26px;object-fit:cover;box-shadow:0 20px 50px #143E3825;display:block;margin:auto}
+section{padding:54px 0}
+.section-title{font-size:clamp(30px,4vw,42px);letter-spacing:-.04em;line-height:1.12;margin:0 0 18px}
+section:nth-of-type(even){background:#EDF4EE}
+.latest{display:grid;grid-template-columns:1.4fr 1fr;gap:42px;align-items:center}
+.latest .box{background:#fff;border-radius:20px;padding:28px;border:1px solid var(--line)}
+.latest h3{font-size:25px;line-height:1.2;margin:12px 0}
+.badge{display:inline-block;padding:7px 11px;border-radius:7px;background:var(--mint);font-size:12px;font-weight:850;letter-spacing:.04em;text-transform:uppercase}
+audio{width:100%;display:block;margin:20px 0}
+.muted{color:#546F65}
+.cards{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px}
+.card{padding:24px 22px;border-radius:18px;border:1px solid var(--line);background:white}
+.card h3{margin:0 0 12px;font-size:20px;line-height:1.22}
+.card p{margin:0;color:#405C52}
+.episodes{display:grid;gap:12px;max-width:860px}
+.episode{border:1px solid var(--line);border-radius:12px;padding:17px 20px;background:white;display:flex;justify-content:space-between;gap:20px;align-items:center}
+.episode h3{font-size:17px;margin:0 0 5px;line-height:1.3}
+.episode small{color:#526D64}.episode a{white-space:nowrap;font-size:14px;font-weight:750}
+.cta{background:var(--forest);color:#fff;border-radius:24px;padding:40px;display:grid;grid-template-columns:1.5fr 1fr;gap:35px;align-items:center}
+.cta h2{font-size:35px;line-height:1.13;margin:0 0 13px}.cta p{margin:0;color:#E0EEE8}
+.cta .button{background:#fff;color:var(--forest);width:100%;margin:5px 0}
+footer{padding:35px 0;border-top:1px solid var(--line);font-size:13px;color:#557166}
+footer .container{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}
+:focus-visible{outline:3px solid var(--coral);outline-offset:3px}
+@media(max-width:800px){.hero,.latest,.cta{grid-template-columns:1fr}.hero{padding:44px 0 42px;gap:32px}.cover{max-width:290px}.cards{grid-template-columns:1fr}.cta{padding:27px}.navlinks{gap:12px}.episode{align-items:flex-start;flex-direction:column}.episode a{white-space:normal}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.button{transition:none}}
+</style>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"PodcastSeries","name":"Inteligencia Artificial al día","description":"Podcast semanal de noticias sobre inteligencia artificial, en español de España, con Marc y Clara.","inLanguage":"es-ES","url":"https://yamiltavip.github.io/inteligencia-artificial-al-dia-podcast/","image":"https://yamiltavip.github.io/inteligencia-artificial-al-dia-podcast/portada_spotify_original.jpg","webFeed":"https://yamiltavip.github.io/inteligencia-artificial-al-dia-podcast/feed.xml","sameAs":["https://open.spotify.com/show/6SsGWLBJrf5iYV9gDUFR1T","https://www.instagram.com/inteligenciaartificialaldia/","https://www.youtube.com/channel/UCp6Y-eGGAeUkLgpX6xLmRdA"]}
+</script>
+</head>
+<body>
+<a href="#contenido" class="skip">Saltar al contenido</a>
+<header><div class="container"><nav aria-label="Navegación principal">
+<a class="logo" href="./">Inteligencia artificial <b>al día</b></a>
+<div class="navlinks"><a href="#ultimo">Último episodio</a><a href="#episodios">Episodios</a><a href="#seguir">Síguenos</a></div>
+</nav></div></header>
+<main id="contenido">
+<div class="container">
+<div class="hero">
+<div><p class="eyebrow">Podcast semanal · Noticias de IA</p>
+<h1>Entiende la IA.<br><span>Sin perder la mañana.</span></h1>
+<p class="lead">Cada martes, Marc y Clara te cuentan las noticias de inteligencia artificial que de verdad importan. Cuatro o cinco temas, ejemplos prácticos, humor y contexto en unos 10–12 minutos.</p>
+<div class="buttons">
+<a class="button primary" href="https://open.spotify.com/show/6SsGWLBJrf5iYV9gDUFR1T" rel="noopener noreferrer">Seguir en Spotify</a>
+<a class="button secondary" href="#ultimo">Escuchar el último episodio</a>
+</div>
+<p class="note">Dos presentadores virtuales · Voces sintéticas en español de España · Fuentes identificadas</p></div>
+<img class="cover" src="portada_spotify_original.jpg" width="400" height="400" alt="Portada de Inteligencia Artificial al día" decoding="async">
+</div>
+</div>
+<section id="ultimo"><div class="container latest">
+<div><span class="badge">Reproducción gratis</span><h2 class="section-title">El último episodio</h2>
+<p class="muted">Escucha el programa directamente aquí. Si te resulta útil, síguenos en Spotify para no perder el próximo.</p></div>
+<div class="box" aria-live="polite"><span class="badge">Actualizado desde nuestro catálogo</span>
+<h3 id="latest-title">Cargando último episodio…</h3>
+<p id="latest-info" class="muted">Podcast en español</p>
+<audio id="latest-audio" controls preload="none" aria-label="Reproducir el último episodio"></audio>
+<a id="latest-download" href="feed.xml" download>Ver RSS del podcast</a></div>
+</div></section>
+<section><div class="container">
+<h2 class="section-title">La actualidad, sin humo</h2>
+<div class="cards">
+<div class="card"><h3>Lo que ha pasado</h3><p>Noticias sobre los avances, empresas y herramientas que están cambiando la inteligencia artificial.</p></div>
+<div class="card"><h3>Por qué importa</h3><p>Explicaciones claras de lo que puede cambiar para las personas, el trabajo y la sociedad.</p></div>
+<div class="card"><h3>Dos voces, un objetivo</h3><p>Marc y Clara hablan con naturalidad, humor y fuentes para que puedas formarte tu propia opinión.</p></div>
+</div></div></section>
+<section id="episodios"><div class="container"><h2 class="section-title">Episodios recientes</h2>
+<p class="muted">Publicados los martes. Si acabas de llegar, empieza por el más reciente.</p>
+<div id="episode-list" class="episodes"><p>Cargando episodios…</p></div>
+</div></section>
+<section id="seguir"><div class="container">
+<div class="cta"><div><h2>La IA cambia cada semana.<br>Que no te pille por sorpresa.</h2>
+<p>Escúchanos los martes y descubre adelantos y clips durante la semana.</p></div>
+<div><a class="button" href="https://open.spotify.com/show/6SsGWLBJrf5iYV9gDUFR1T" rel="noopener noreferrer">Seguir el podcast en Spotify</a>
+<a class="button" href="https://www.instagram.com/inteligenciaartificialaldia/" rel="noopener noreferrer">Ver las noticias en Instagram</a>
+<a class="button" href="https://www.youtube.com/channel/UCp6Y-eGGAeUkLgpX6xLmRdA" rel="noopener noreferrer">Visitar nuestro YouTube</a></div></div>
+</div></section>
+</main>
+<footer><div class="container">
+<span>© Inteligencia Artificial al día · Producción con herramientas de IA</span>
+<span><a href="feed.xml">RSS</a> · <a href="https://open.spotify.com/show/6SsGWLBJrf5iYV9gDUFR1T">Spotify</a> · <a href="https://www.instagram.com/inteligenciaartificialaldia/">Instagram</a> · <a href="https://www.youtube.com/channel/UCp6Y-eGGAeUkLgpX6xLmRdA">YouTube</a></span>
+</div></footer>
+<script>
+(async function(){
+const safeFile=/^episodios\/episodio_[\w.-]+\.mp3$/;
+const text=(el,s)=>{el.textContent=String(s||'')};
+const date=s=>{try{return new Date(s).toLocaleDateString('es-ES',{day:'numeric',month:'long',year:'numeric',timeZone:'Europe/Madrid'})}catch{return ''}};
+try{
+const r=await fetch('episodios.json',{cache:'no-store'});
+if(!r.ok)throw new Error('No disponible');
+const items=(await r.json()).filter(x=>Number.isInteger(x.numero)&&safeFile.test(x.file)).sort((a,b)=>b.numero-a.numero);
+if(!items.length)throw new Error('Catálogo vacío');
+const last=items[0];text(document.getElementById('latest-title'),last.titulo);
+text(document.getElementById('latest-info'),date(last.fecha)+' · Episodio '+last.numero);
+document.getElementById('latest-audio').src=last.file;
+const dl=document.getElementById('latest-download');dl.href=last.file;dl.textContent='Descargar el MP3';
+const list=document.getElementById('episode-list');list.replaceChildren();
+for(const ep of items.slice(0,6)){
+ const section=document.createElement('article');section.className='episode';
+ const inner=document.createElement('div');const h=document.createElement('h3');text(h,ep.titulo);
+ const small=document.createElement('small');text(small,date(ep.fecha)+' · Episodio '+ep.numero);
+ const link=document.createElement('a');link.href=ep.file;link.textContent='Escuchar o descargar';link.setAttribute('aria-label','Escuchar '+ep.titulo);
+ inner.append(h,small);section.append(inner,link);list.append(section);
+}
+}catch(e){text(document.getElementById('latest-title'),'Escucha el podcast en Spotify');text(document.getElementById('latest-info'),'Nuestro catálogo se está actualizando');document.getElementById('latest-audio').remove();text(document.getElementById('episode-list'),'Consulta los episodios en Spotify o mediante nuestro RSS.')}
+})();
+</script>
+</body>
+</html>
