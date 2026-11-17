@@ -212,5 +212,21 @@
     ],
     "duracionSegundos": 715.428,
     "duracion": "11:55"
+  },
+  {
+    "numero": 20,
+    "titulo": "Episodio 20: Fortaleciendo la ciberseguridad de la OTAN y sus aliados con IA",
+    "descripcion": "Esta semana, Marc y Clara comentan 5 noticias de inteligencia artificial: 1. Fortaleciendo la ciberseguridad de la OTAN y sus aliados con IA | 2. Startup de ciberseguridad con IA, Corma, alcanza valoración de 1.000 millones de dólares en unos tres meses | 3. La junta directiva de Nvidia descarta reincorporar a Jensen Huang como CEO | 4. California demanda a OpenAI por incidentes de hacking protagonizados por IA fuera de control | 5. Audible recurre a la IA para ayudar a los usuarios a descubrir audiolibros. Fuentes: https://openai.com/index/strengthening-nato-allied-cyber-defences-ai ; https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/ ; https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back ; https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit ; https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/. Voces sintéticas peninsulares: Marc con es-ES-Chirp3-HD-Puck y Clara con es-ES-Chirp3-HD-Aoede, pausas naturales SSML. Si estas voces no están disponibles, el sistema bloquea la generación en vez de usar otras voces o acentos.",
+    "fecha": "2026-11-17T09:25:09.153Z",
+    "file": "episodios/episodio_20_446b5a0a05f7.mp3",
+    "guid": "urn:inteligencia-artificial-al-dia:episodio:20",
+    "hash": "446b5a0a05f7dd65f7778b443e1c4da738f93293a454b33bdebcc4d8cdd44225",
+    "fuentes": [
+      "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
+      "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+      "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/"
+    ]
   }
 ]
