@@ -228,5 +228,28 @@
       "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
       "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/"
     ]
+  },
+  {
+    "numero": 21,
+    "titulo": "Episodio 21: OpenAI y Cisco presentan Shirudo para proteger sistemas Linux en funcionamiento",
+    "descripcion": "Esta semana, Marc y Clara comentan 4 noticias de inteligencia artificial: 1. OpenAI y Cisco presentan Shirudo para proteger sistemas Linux en funcionamiento | 2. Google amplía la personalización de la búsqueda con Wallet, Drive y Gemini | 3. DeepMind mejora algoritmos cuánticos con agentes y verificación formal | 4. MedChemBench evalúa la IA en química medicinal. Fuentes: https://openai.com/index/introducing-shirudo ; https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/ ; https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/ ; https://openai.com/index/introducing-medchembench. Voces sintéticas peninsulares: Marc con es-ES-Chirp3-HD-Puck y Clara con es-ES-Chirp3-HD-Aoede, pausas naturales SSML. Si estas voces no están disponibles, el sistema bloquea la generación en vez de usar otras voces o acentos.",
+    "fecha": "2026-11-24T14:30:03.263Z",
+    "file": "episodios/episodio_21_b34982a567e5.mp3",
+    "guid": "urn:inteligencia-artificial-al-dia:episodio:21",
+    "hash": "b34982a567e5151d66640b5c3282de6d5aae00e7f66a450f0cc6f2e96a02cb1c",
+    "fuentes": [
+      "https://openai.com/index/introducing-shirudo",
+      "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "https://openai.com/index/introducing-medchembench"
+    ],
+    "duracionSegundos": 677.952,
+    "duracion": "11:18",
+    "titulares": [
+      "OpenAI y Cisco presentan Shirudo para proteger sistemas Linux en funcionamiento",
+      "Google amplía la personalización de la búsqueda con Wallet, Drive y Gemini",
+      "DeepMind mejora algoritmos cuánticos con agentes y verificación formal",
+      "MedChemBench evalúa la IA en química medicinal"
+    ]
   }
 ]

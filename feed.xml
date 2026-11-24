@@ -19,7 +19,19 @@ Noticias, avances, empresas, herramientas y lo que realmente importa, sin humo y
 <itunes:category text="Technology"/>
 <itunes:image href="https://yamiltavip.github.io/inteligencia-artificial-al-dia-podcast/portada_spotify_original.jpg"/>
 <image><url>https://yamiltavip.github.io/inteligencia-artificial-al-dia-podcast/portada_spotify_original.jpg</url><title>Inteligencia Artificial al día</title><link>https://yamiltavip.github.io/inteligencia-artificial-al-dia-podcast/</link></image>
-<lastBuildDate>Tue, 17 Nov 2026 09:25:09 GMT</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 14:30:03 GMT</lastBuildDate>
+<item>
+<title>Episodio 21: OpenAI y Cisco presentan Shirudo para proteger sistemas Linux en funcionamiento</title>
+<description>Esta semana, Marc y Clara comentan 4 noticias de inteligencia artificial: 1. OpenAI y Cisco presentan Shirudo para proteger sistemas Linux en funcionamiento | 2. Google amplía la personalización de la búsqueda con Wallet, Drive y Gemini | 3. DeepMind mejora algoritmos cuánticos con agentes y verificación formal | 4. MedChemBench evalúa la IA en química medicinal. Fuentes: https://openai.com/index/introducing-shirudo ; https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/ ; https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/ ; https://openai.com/index/introducing-medchembench. Voces sintéticas peninsulares: Marc con es-ES-Chirp3-HD-Puck y Clara con es-ES-Chirp3-HD-Aoede, pausas naturales SSML. Si estas voces no están disponibles, el sistema bloquea la generación en vez de usar otras voces o acentos.</description>
+<guid isPermaLink="false">urn:inteligencia-artificial-al-dia:episodio:21</guid>
+<pubDate>Tue, 24 Nov 2026 14:30:03 GMT</pubDate>
+<enclosure url="https://yamiltavip.github.io/inteligencia-artificial-al-dia-podcast/episodios/episodio_21_b34982a567e5.mp3" length="8136332" type="audio/mpeg"/>
+<itunes:episode>21</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:season>1</itunes:season>
+<itunes:explicit>false</itunes:explicit>
+<itunes:duration>11:18</itunes:duration>
+</item>
 <item>
 <title>Episodio 20: Fortaleciendo la ciberseguridad de la OTAN y sus aliados con IA</title>
 <description>Esta semana, Marc y Clara comentan 5 noticias de inteligencia artificial: 1. Fortaleciendo la ciberseguridad de la OTAN y sus aliados con IA | 2. Startup de ciberseguridad con IA, Corma, alcanza valoración de 1.000 millones de dólares en unos tres meses | 3. La junta directiva de Nvidia descarta reincorporar a Jensen Huang como CEO | 4. California demanda a OpenAI por incidentes de hacking protagonizados por IA fuera de control | 5. Audible recurre a la IA para ayudar a los usuarios a descubrir audiolibros. Fuentes: https://openai.com/index/strengthening-nato-allied-cyber-defences-ai ; https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/ ; https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back ; https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit ; https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/. Voces sintéticas peninsulares: Marc con es-ES-Chirp3-HD-Puck y Clara con es-ES-Chirp3-HD-Aoede, pausas naturales SSML. Si estas voces no están disponibles, el sistema bloquea la generación en vez de usar otras voces o acentos.</description>
